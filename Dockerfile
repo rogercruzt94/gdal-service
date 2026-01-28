@@ -1,4 +1,4 @@
-FROM osgeo/gdal:ubuntu-small-3.8.4
+FROM osgeo/gdal:ubuntu-small-latest
 
 WORKDIR /app
 
